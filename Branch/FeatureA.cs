@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MarcGit
+namespace MarcGit.Branch
 {
-    public class B
+    internal class Feature_A
     {
-        public B() { }
     }
 }
