@@ -8,5 +8,6 @@ namespace MarcGit
 {
     internal class A
     {
+        public string Message = "Hello from Github"
     }
 }
