@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MarcGit
 {
-    internal class C
+    public class C
     {
     }
 }
